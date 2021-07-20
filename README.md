@@ -32,9 +32,8 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./screenshot/screenshot-desktop.png?raw=true)
-Format: ![Alt Text](url)
 ![Mobile](./screenshot/screenshot-mob.png?raw=true)
-Format: ![Alt Text](url)
+
 
 ### Links
 
