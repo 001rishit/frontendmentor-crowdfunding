@@ -50,7 +50,7 @@ export default class ImageOnTop extends React.Component {
     window.removeEventListener("resize", this.resizeHandler);
   }
 render(){
-  return <Image role="background-image" src={this.state.bgImage} alt="top" />;
+  return <Image src={this.state.bgImage} alt="top" />;
 }
 }
 

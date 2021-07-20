@@ -113,7 +113,7 @@ export default class Status extends React.Component {
   } 
   render(){
   return (
-    <Container role="status" id="discover">
+    <Container  id="discover">
       <div className="statusBox">
         <div className="card-1">
           <Bold>{this.props.amount}</Bold>

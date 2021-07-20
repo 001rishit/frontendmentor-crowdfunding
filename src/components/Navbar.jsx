@@ -104,7 +104,7 @@ export default class NavigationBar extends React.Component {
   render(){
 
   return (
-    <Nav role="navigation">
+    <Nav >
       {/* <A href="#">crowdfund</A> */}
       <A href="#titlePage" className={this.state.isClicked ? "isClicked" : null}>
         <Brand src={logo} alt="Crowd Fund" />

@@ -248,7 +248,7 @@ export default class ProductCardPopUp extends React.Component {
   render(){
   return this.props.trigger ? (
     <Container>
-      <div role="product-card" className="whiteBackground">
+      <div className="whiteBackground">
         <img
           src={this.state.image}
           alt="close"

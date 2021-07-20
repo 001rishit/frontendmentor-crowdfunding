@@ -30,7 +30,7 @@ export default class About extends React.Component {
 
   render(){
   return (
-    <Container role="about" id="about">
+    <Container id="about">
       <h2>About this project</h2>
       <p>
         The Mastercraft Bamboo Monitor Riser is a sturdy and stylish platform

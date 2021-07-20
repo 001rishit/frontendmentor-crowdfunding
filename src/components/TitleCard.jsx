@@ -137,7 +137,7 @@ export default class TitleCard extends React.Component {
   };
 render(){
   return (
-    <TitleContainer role="title" id="titlePage">
+    <TitleContainer id="titlePage">
       <TitleImage src={logo} alt="mastercraft-logo" />
       <HeadingBox>
         <Heading>Mastercraft Bamboo Monitor Riser</Heading>

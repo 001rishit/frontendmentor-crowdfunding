@@ -47,7 +47,7 @@ export default class Footer extends React.Component {
   }
   render(){
   return (
-    <Container role="footer">
+    <Container>
       <p className="frontendMentor">
         Challenge by{" "}
         <a href="https://www.frontendmentor.io/">Frontend Mentor</a>

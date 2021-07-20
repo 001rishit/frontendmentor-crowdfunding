@@ -80,7 +80,7 @@ export default class About extends React.Component {
   } 
   render(){
   return this.props.trigger ? (
-    <Container role="thank-you">
+    <Container >
       <div className="popUp">
         <img src={check} alt="Check" />
         <p className="bold">Thanks for your support!</p>
