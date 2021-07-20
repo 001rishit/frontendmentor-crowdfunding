@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](.\screenshot\screenshot-desktop.png)
-![Mobile](.\screenshot\screenshot-mob.png)
+![Desktop](.\screenshot\screenshot-desktop.png?raw=true)
+![Mobile](.\screenshot\screenshot-mob.png?raw=true)
 
 ### Links
 
